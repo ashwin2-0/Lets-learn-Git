@@ -43,5 +43,8 @@ public class CollectionDemo {
         // Size of the collections
         System.out.println("Size of ArrayList: " + arrayList.size());
         System.out.println("Size of LinkedList: " + linkedList.size());
+          System.out.println("Size of ArrayList Hello world  ");
+        System.out.println("Size of ArrayList Hello world ");
+        
     }
 }
